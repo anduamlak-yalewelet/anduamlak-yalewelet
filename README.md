@@ -47,7 +47,6 @@ With experience in both **backend and frontend development**, I'm interested in 
 - 📜 **ISC2 Certified in Cybersecurity (CC)**
 - 🧠 Programming & Android Development (5 Million Coders)
 - 🏅 Digital Skills Award – Top 10% (e-SHE)
-- 🏆 High Academic Distinction – GPA 3.91/4.0
 
 ---
 
