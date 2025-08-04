@@ -7,7 +7,7 @@
 
 ## 🧠 About Me
 
-I'm a passionate **developer and cybersecurity engineer** with a B.Sc. in Cybersecurity (GPA: 3.91/4.0) from **Bahir Dar University**.  
+I'm a passionate **developer and cybersecurity engineer** with a B.Sc. in Cybersecurity from **Bahir Dar University**.  
 I build **secure, scalable, and user-focused applications** while also analyzing and defending against cyber threats.
 
 With experience in both **backend and frontend development**, I'm interested in using **machine learning** to enhance security systems and working with cutting-edge technologies.
