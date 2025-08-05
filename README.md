@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Anduamlak Yalewelet Tarekegne
 
 🎓 Cybersecurity Engineer | 💻 Full Stack Developer | 🌐 Web Security Enthusiast  
-📍 Bahir Dar, Ethiopia | 📫 [LinkedIn](https://www.linkedin.com/in/anduamlak-yalewelet-3a1ba5371/)
+📍 Bahir Dar, Ethiopia | 📫 [LinkedIn](https://www.linkedin.com/in/anduamlak-yalewelet/)
 
 ---
 
