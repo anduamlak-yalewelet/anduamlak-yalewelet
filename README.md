@@ -58,7 +58,7 @@ These hobbies help fuel my creativity and focus.
 
 ## 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/anduamlak-yalewelet-3a1ba5371/)
+- [LinkedIn](https://www.linkedin.com/in/anduamlak-yalewelet/)
 - [Portfolio](https://portfolio-anduamlak-yalewelet.vercel.app/)
 - [Telegram](https://t.me/Anduamlak_Yalewelet)
 - [X (Twitter)](https://x.com/Anduamlak23)
