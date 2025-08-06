@@ -1,9 +1,4 @@
-# 👋 Hi there, I'm Anduamlak Yalewelet Tarekegne
 
-🎓 Cybersecurity Engineer | 💻 Full Stack Developer | 🌐 Web Security Enthusiast  
-📍 Bahir Dar, Ethiopia | 📫 [LinkedIn](https://www.linkedin.com/in/anduamlak-yalewelet/)
-
----
 
 ## 🧠 About Me
 
@@ -61,14 +56,11 @@ When I'm not coding or debugging threats, you'll find me:
 
 These hobbies help fuel my creativity and focus.
 
----
-
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/anduamlak-yalewelet-3a1ba5371/)
-- [Telegram](https://t.me/https://t.me/Anduamlak_Yalewelet)
-- [X / X](https://X.com/Anduamlak23) 
-
----
+- [Portfolio](https://portfolio-anduamlak-yalewelet.vercel.app/)
+- [Telegram](https://t.me/Anduamlak_Yalewelet)
+- [X (Twitter)](https://x.com/Anduamlak23)
 
 ⭐️ *Thanks for visiting my profile! Feel free to star, fork, or reach out!*
