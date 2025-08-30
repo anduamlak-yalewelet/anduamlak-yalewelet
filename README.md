@@ -38,7 +38,7 @@ With experience in both **backend and frontend development**, I'm interested in 
 ---
 
 ## 🎓 Certifications & Awards
-
+- 📜 **Ethical Hacker Certification by Cisco Networrking Academy**
 - 📜 **ISC2 Certified in Cybersecurity (CC)**
 - 🧠 Programming & Android Development (5 Million Coders)
 - 🏅 Digital Skills Award – Top 10% (e-SHE)
