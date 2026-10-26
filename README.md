@@ -19,7 +19,7 @@ With experience in both **backend and frontend development**, I'm interested in 
 
 **Domains & Interests:**  
 🔐 Cybersecurity  
-🌐 Web/Mobile/Api Testing
+🌐 Web/Mobile/Api Testing 
 🧩 Full Stack Engineering  
 📊 Threat Intelligence & Network Security  
 🤖 Machine Learning in Security
