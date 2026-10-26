@@ -1,6 +1,6 @@
 
 
-## 🧠 About Me
+## About Me
 
 I'm a passionate **Professional Web/api application tester and full stack website developer** .  
 I build **secure, scalable, and user-focused applications** while maintaining them secure,fixing dependency vulnerabilites, filling the gabs.
