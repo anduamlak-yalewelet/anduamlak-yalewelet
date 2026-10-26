@@ -2,8 +2,8 @@
 
 ## 🧠 About Me
 
-I'm a passionate **developer and cybersecurity engineer** with a B.Sc. in Cybersecurity from **Bahir Dar University**.  
-I build **secure, scalable, and user-focused applications** while also analyzing and defending against cyber threats.
+I'm a passionate **Professional Web/api application tester and full stack website developer** .  
+I build **secure, scalable, and user-focused applications** while maintaining them secure,fixing dependency vulnerabilites, filling the gabs.
 
 With experience in both **backend and frontend development**, I'm interested in using **machine learning** to enhance security systems and working with cutting-edge technologies.
 
@@ -19,7 +19,7 @@ With experience in both **backend and frontend development**, I'm interested in 
 
 **Domains & Interests:**  
 🔐 Cybersecurity  
-🌐 Web Development  
+🌐 Web/Mobile/Api Testing
 🧩 Full Stack Engineering  
 📊 Threat Intelligence & Network Security  
 🤖 Machine Learning in Security
@@ -30,31 +30,20 @@ With experience in both **backend and frontend development**, I'm interested in 
 
 - **Networking:** Cisco Packet Tracer, Wireshark, TCP/IP, Firewalls  
 - **Programming:** Python, C++, Java, Bash, SQL  
-- **Tools:** Git, Linux, Microsoft Office, Google Workspace  
-- **Web Dev:** HTML, CSS, JavaScript, PHP  
-- **Databases:** MySQL, MS Access  
+- **Tools:** Git, Linux, 
+- **Web/Api Development and Testing:** JavaScript, PHP, Burp suite, Postman  
+- **Databases:** MySQL, Mongo DB 
 - **Machine Learning:** scikit-learn, pandas
 
 ---
 
 ## 🎓 Certifications & Awards
-- 📜 **Ethical Hacker Certification by Cisco Networrking Academy**
+- 📜 **Ethical Hacker Certification by Cisco Networking Academy**
 - 📜 **ISC2 Certified in Cybersecurity (CC)**
-- 🧠 Programming & Android Development (5 Million Coders)
-- 🏅 Digital Skills Award – Top 10% (e-SHE)
+- 📜 **Google Cyber Security Professional Certificate**
+- 📜 **Oracle Cloud Infrastructure 2025 Foundations Associate**
+- 📜 **Microsoft Azure Security Engineer Associate (AZ-500)**
 
----
-
-## 🎯 Outside of Tech
-
-When I'm not coding or debugging threats, you'll find me:
-
-🎵 Walking while listening to music  
-🎬 Editing videos  
-♟️ Playing chess  
-🎼 Playing the harp
-
-These hobbies help fuel my creativity and focus.
 
 ## 📫 Let's Connect
 
